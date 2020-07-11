@@ -1,1 +1,1 @@
-# WatsonIoT_Smart_Room
+# Watson IoT Smart Room
